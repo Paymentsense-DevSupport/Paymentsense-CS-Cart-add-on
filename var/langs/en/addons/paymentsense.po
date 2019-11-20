@@ -1,0 +1,25 @@
+msgid ""
+msgstr "Project-Id-Version: Paymentsense 2.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::paymentsense"
+msgid "Paymentsense payment method"
+msgstr "Paymentsense payment method"
+
+msgctxt "Addons::description::paymentsense"
+msgid "Allows you to take payments via Paymentsense"
+msgstr "Allows you to take payments via Paymentsense"
+
+msgctxt "Languages::addon_name"
+msgid "Paymentsense payment method"
+msgstr "Paymentsense payment method"
+
+msgctxt "Languages::addon_version"
+msgid "v.2.0"
+msgstr "v.2.0"
+
+msgctxt "Languages::hash_method"
+msgid "Hash Method"
+msgstr "Hash Method"

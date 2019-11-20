@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>paymentsense</id>
+    <name>Paymentsense payment method</name>
+    <supplier>Paymentsense Ltd.</supplier>
+    <supplier_link>https://www.paymentsense.com</supplier_link>
+    <description>Allows you to take payments via Paymentsense.</description>
+    <version>2.0</version>
+    <priority>100500</priority>
+    <status>active</status>
+    <queries>
+        <item for="install" type="file">database/install.sql</item>
+        <item for="uninstall" type="file">database/uninstall.sql</item>
+    </queries>
+    <functions>
+        <item for="uninstall">fn_paymentsense_uninstall</item>
+    </functions>
+</addon>
